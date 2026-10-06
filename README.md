@@ -139,8 +139,8 @@ Quanto mais tempo de atraso, menor a chance de regularização. O saldo em aten�
 
 ## Minhas Leituras e Comentários
 
-Apesar do crescimento da carteira de R$ 25,54 bi para R$ 27,36 bi em 12 meses, e o Over 30 subiu de 3,33% para 3,94%. A alta não foi gradual: até 03/2025 o Over 30 ficou perto de 3,2%, e a partir de 04/2025 subiu todos os meses.
-A piora da inadimplencia que representa pouco mais de 10% do saldo entre fev/2025 a set/2025 foi por conta do Cartão empresarial que passou de 5,20% para 8,75% de Over 30, e Construção de 3,78% para 7,89% no mesmo período.
+A carteira cresceu de R$ 25,54 bi para R$ 27,36 bi em 12 meses, mas o Over 30 subiu de 3,33% para 3,94%. A alta não foi gradual: até 03/2025 o Over 30 ficou perto de 3,2%, e a partir de 04/2025 subiu todos os meses.
+A piora da inadimplência entre fev/2025 e set/2025 foi por conta do Cartão empresarial, que passou de 5,20% para 8,75% de Over 30, e de Construção, de 3,78% para 7,89% no mesmo período. Cada um desses segmentos representa pouco mais de 10% do saldo da carteira.
 O que eu faria: revisar as concessões recentes nesses dois segmentos antes de qualquer ajuste geral de política. A base mostra onde piorou, mas não mostra a causa.
 
 **Oportunidade: risco baixo, mas com ressalvas**
