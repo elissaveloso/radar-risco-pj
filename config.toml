@@ -1,0 +1,8 @@
+# Aparência do painel (tema). O Streamlit lê este arquivo sozinho ao iniciar.
+[theme]
+base = "dark"                          # tema escuro como ponto de partida
+primaryColor = "#6c8cff"               # cor de destaque (aba ativa, seleção)
+backgroundColor = "#000000"            # fundo da página (preto)
+secondaryBackgroundColor = "#16181f"   # fundo das tabelas e caixas (cinza bem escuro)
+textColor = "#f2f4f8"                  # cor do texto
+font = "sans serif"                    # fonte limpa, sem serifa
